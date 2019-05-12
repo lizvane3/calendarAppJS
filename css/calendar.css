@@ -1,0 +1,5 @@
+.calendar-body tr td:hover{
+    background-color: #eeeeee;
+    border-radius: 5px;
+    cursor: pointer;
+}
